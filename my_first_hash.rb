@@ -1,7 +1,5 @@
 def my_hash
-  
-
-  
+  your_hash = {green => 170}
 end
 
 
