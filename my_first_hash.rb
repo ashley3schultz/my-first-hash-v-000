@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {green => myhash}
+  your_hash = {"green" => "myhash"}
   your_hash
 end
 
